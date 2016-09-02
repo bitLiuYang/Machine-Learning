@@ -35,3 +35,5 @@ setText = createVocabList(listText)
 print(setText)
 list_in = setOfWords2Vec(setText, listText[3])
 print(list_in)
+print('new...'):wq
+
